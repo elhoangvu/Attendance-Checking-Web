@@ -1,4 +1,4 @@
 export class AppConfig {
-    public apiHost = 'https://hcmus-attendance.herokuapp.com/api';
-    public host = 'https://hcmus-attendance.herokuapp.com';
+    public apiHost = 'https://tpltesting.herokuapp.com/api';
+    public host = 'https://tpltesting.herokuapp.com';
 }
