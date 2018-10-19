@@ -1,4 +1,4 @@
 export class AppConfig {
-    public apiHost = 'https://tpltesting.herokuapp.com/api';
-    public host = 'https://tpltesting.herokuapp.com';
+    public apiHost = 'http://t13-attendancemanagement.herokuapp.com/api';
+    public host = 'http://t13-attendancemanagement.herokuapp.com';
 }
